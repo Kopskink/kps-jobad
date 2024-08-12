@@ -5,8 +5,8 @@ Kõpskink
 discord: kopskink
 
 ## Preview, Download and Support
-Video preview at our [YouTube Channel](https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw)
-The file is downloadable at [GitHub]()
+Video preview at our [YouTube Channel](https://youtu.be/8tuDMn_POhs?si=DchqqGsPPXc-p7uV)
+The file is downloadable at [GitHub](https://github.com/Kopskink/kps-jobad)
 Since the script is open source, we may not always be available for support. However, if you need urgent assistance, you can find help at the [KPS-Development Discord Server](https://dsc.gg/kpsdevelopment)
 
 ## Description
