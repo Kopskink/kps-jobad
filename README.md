@@ -3,7 +3,7 @@
 ## Author
 Kõpskink
 
-discord: kopskink
+Discord: kopskink
 
 ## Preview, Download and Support
 Video preview at our [YouTube Channel](https://youtu.be/8tuDMn_POhs?si=DchqqGsPPXc-p7uV)
